@@ -1,9 +1,9 @@
 html {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .card {
-    width: 25rem;
+
     color: #232931;
 }
 body {
@@ -12,11 +12,7 @@ body {
     color: #232931;
     font-family: Arial, sans-serif;
 }
-@media (min-width: 768px) {
-    html {
-        font-size: 16px;
-    }
-}
+
 
 html {
     position: relative;
@@ -26,13 +22,18 @@ html {
 
 
 h1 {
+
     color: #232931;
 }
 
 p {
+    font-size: 20px;
     color: #232931;
 }
-
+ul {
+    font-size: 20px;
+    color: #232931;
+}
 .box {
     background-color: #393e46;
     border-radius: 5px;
@@ -47,3 +48,4 @@ p {
     padding: 10px;
     text-align: center;
 }
+
